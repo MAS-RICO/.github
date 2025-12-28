@@ -1,162 +1,130 @@
-# MASRICO Group  
-**Strategic Technology Partner | Business Engineering**
+# MASRICO Group
 
-MASRICO Group is not a digital agency.  
-We are a **Strategic Technology Partner** dedicated to **engineering business systems**, not merely deploying tools.
+**Strategic Technology Partner · Business Engineering**
 
-We fuse **Pharaonic ambition**—the legacy of monumental builders—with **European precision** to design and operate the **Digital and Physical Nervous Systems** of modern businesses.
+MASRICO Group designs and operates end-to-end business systems.
+We focus on engineering scalable, automated, and data-driven architectures — not selling isolated tools or services.
 
-Our mission is simple:
+## What We Do
 
-> **Ensure our clients don’t just survive the future — they dominate it.**
+MASRICO operates across **Software, Data, and Hardware**, building integrated systems that power modern businesses.
 
----
+Our work is structured around three tightly coupled layers:
 
-## 🧠 Core Identity: Business Engineering
+### 1. Digital Facade
 
-MASRICO operates at the intersection of **Software, Hardware, and Data**.
+**Focus**
 
-We believe:
-- A website is only a **door**
-- The real value lies in the **automated engine behind it**
-- And the **physical environment it controls**
+* High-performance web platforms
+* Technical SEO
+* Conversion-oriented frontends
 
-We do not sell code.  
-**We engineer business legacies.**
+**Purpose**
 
----
-
-## 🧩 The MASRICO Triple-Layer Value Model
-
-Our solutions are designed as **integrated systems**, not isolated services.
-
-### **Layer 1 — Digital Facade (Market Authority)**
-**Focus:**  
-High-End Web Development & Technical SEO
-
-**Purpose:**  
-Establish elite digital presence that reflects the client’s true professional caliber.
-
-This layer serves as:
-- Market positioning
-- Trust amplification
-- Entry point for rapid ROI
+* Market positioning
+* Trust and credibility
+* Primary acquisition channel
 
 ---
 
-### **Layer 2 — Neural Core (AI & Process Automation)**
-**Focus:**  
-AI Voice Agents, Smart Chatbots, Automated Workflows
+### 2. Neural Core
 
-**Purpose:**  
-Eliminate operational friction.
+**Focus**
 
-We build **intelligent systems** that:
-- Handle bookings
-- Filter and qualify leads
-- Manage customer interactions
-- Operate 24/7 without human intervention
+* AI voice agents
+* Conversational chatbots
+* Workflow and process automation
 
----
+**Purpose**
 
-### **Layer 3 — Physical Intelligence (Hardware & IoT)**
-**Focus:**  
-Smart Sensors, Interactive Displays, Connected Environments
-
-**Purpose:**  
-Bridge digital and physical realities.
-
-We transform clinics, retail spaces, and real estate into **data-driven environments** that react to customer behavior in real time.
+* Automate customer interactions
+* Handle bookings and inquiries
+* Qualify leads
+* Operate continuously without manual intervention
 
 ---
 
-## 🚀 Why MASRICO
+### 3. Physical Intelligence
 
-### **Builder’s Mindset**
-We think in centuries, not quarters.  
-Our systems are designed to be **robust, scalable, and enduring**.
+**Focus**
 
-### **Proprietary Innovation**
-We build **our own solutions**, hosted on AWS infrastructure — not resold SaaS subscriptions.
+* Smart sensors
+* IoT systems
+* Connected physical environments
 
-### **Data-Driven Scale**
-Backed by a proprietary database of **1M+ leads**, enabling precision targeting and informed system design.
+**Purpose**
 
-### **Hybrid Advantage**
-We are uniquely positioned to integrate:
-- High-level software engineering
-- AI systems
-- Physical hardware & IoT  
-within a single cohesive architecture.
+* Integrate digital systems with real-world spaces
+* Enable data-driven physical environments (clinics, retail, real estate)
 
 ---
 
-## 🗺️ Roadmap to Dominance
+## How We Build
 
-### **Phase 1 — Market Penetration (Current)**
-- Digital Facade
-- Neural Core  
-Focus: Cash flow, authority, high-value client base
+* Systems-first architecture (not isolated products)
+* Internal, proprietary implementations (not resold SaaS)
+* AWS-based infrastructure
+* Designed for scale, reliability, and long-term operation
 
-### **Phase 2 — Data Engineering**
-- Internal data monetization
-- Analytics and intelligence pipelines
+## Target Markets
 
-### **Phase 3 — Physical Intelligence**
-- Smart clinics
-- Smart retail
-- Smart real estate  
-Target markets: Hospitality, Medical, Real Estate across the Iberian Peninsula
+* Hospitality
+* Medical & Clinics
+* Real Estate
+
+Primary geographic focus: **Iberian Peninsula**
 
 ---
 
-## 🗂️ Repository Structure (High Level)
+## Repository Structure
 
-This organization hosts repositories related to:
+This organization contains repositories for:
 
-- **Web Platforms** — high-performance, SEO-driven frontends
-- **AI Systems** — voice agents, conversational AI, automation engines
-- **Infrastructure** — AWS, Docker, CI/CD, observability
-- **Hardware & IoT** — device control, sensors, edge systems
-- **Internal Tooling** — orchestration, dashboards, analytics
+* **Web Platforms** — Frontend applications and SEO-focused sites
+* **AI Systems** — Voice agents, conversational AI, automation engines
+* **Infrastructure** — AWS, Docker, CI/CD, observability
+* **Hardware & IoT** — Sensors, device control, edge systems
+* **Internal Tools** — Dashboards, orchestration, analytics
 
-Each repository contains:
-- Clear README
-- Architecture notes
-- Environment setup
-- Deployment instructions
+Each repository includes:
 
----
-
-## 🛡️ Security & Responsibility
-
-- Security issues should **not** be disclosed publicly.
-- If you identify a vulnerability, contact the MASRICO security team privately.
-- Access to sensitive repositories is permission-based.
+* Clear README
+* Architecture documentation
+* Environment setup instructions
+* Deployment guidelines
 
 ---
 
-## 🤝 Contributions
+## Security
 
-MASRICO repositories are primarily **internal-use and client-critical systems**.
+* Do **not** disclose vulnerabilities publicly
+* Report security issues privately to the MASRICO security team
+* Access to sensitive repositories is permission-based
+
+---
+
+## Contributions
+
+Most repositories are **internal and client-critical**.
 
 Contribution rules:
-- Follow established architecture patterns
-- Use clear commit messages
-- Never expose secrets or credentials
-- Respect system boundaries and data contracts
 
-External contributions are accepted **only by invitation**.
+* Follow established architecture patterns
+* Use clear, meaningful commit messages
+* Never commit secrets or credentials
+* Respect system boundaries and data contracts
+
+External contributions are accepted **by invitation only**.
 
 ---
 
-## 📜 Final Statement
+## Summary
 
-MASRICO Group exists to **redefine what it means to be a technology partner in Europe**.
+MASRICO Group builds engineered business systems across digital, AI, and physical domains.
 
-We are not vendors.  
-We are not agencies.  
+We focus on:
 
-**We are architects.  
-We are engineers.  
-We are MASRICO.**
+* Automation over manual operations
+* Architecture over tooling
+* Long-term systems over short-term solutions
+
