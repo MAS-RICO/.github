@@ -76,7 +76,7 @@ Interested in collaborating, contributing, or building something together?
 ## 📬 Contact
 
 - 🌐 Website: https://masrico.es  
-- 📧 Email: info@masrico.es  
+- 📧 Email: hello@masrico.es  
 - 📍 Based in Spain — working globally
 
 ---
