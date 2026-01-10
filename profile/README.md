@@ -1,130 +1,86 @@
-# MASRICO Group
+<p align="center">
+  <img src="https://masrico.es/logo.png" alt="MASRICO" height="80" />
+</p>
 
-**Strategic Technology Partner · Business Engineering**
+<h1 align="center">MASRICO</h1>
 
-MASRICO Group designs and operates end-to-end business systems.
-We focus on engineering scalable, automated, and data-driven architectures — not selling isolated tools or services.
+<p align="center">
+  <strong>Building smart digital systems for real-world businesses.</strong>
+</p>
 
-## What We Do
-
-MASRICO operates across **Software, Data, and Hardware**, building integrated systems that power modern businesses.
-
-Our work is structured around three tightly coupled layers:
-
-### 1. Digital Facade
-
-**Focus**
-
-* High-performance web platforms
-* Technical SEO
-* Conversion-oriented frontends
-
-**Purpose**
-
-* Market positioning
-* Trust and credibility
-* Primary acquisition channel
+<p align="center">
+  Web · Automation · AI · Scalable Systems
+</p>
 
 ---
 
-### 2. Neural Core
+## 🚀 About Us
 
-**Focus**
+**MASRICO** is a startup focused on building **practical, scalable digital solutions** for businesses that want to operate smarter — not harder.
 
-* AI voice agents
-* Conversational chatbots
-* Workflow and process automation
+We work at the intersection of **software engineering, automation, and AI**, helping companies remove inefficiencies, streamline operations, and build systems that actually scale.
 
-**Purpose**
-
-* Automate customer interactions
-* Handle bookings and inquiries
-* Qualify leads
-* Operate continuously without manual intervention
+No fluff. No buzzwords. Just technology that works.
 
 ---
 
-### 3. Physical Intelligence
+## 🧩 What We Build
 
-**Focus**
+- **Web Applications & Platforms**  
+  High-performance, maintainable web systems built with modern stacks.
 
-* Smart sensors
-* IoT systems
-* Connected physical environments
+- **Automation & Internal Tools**  
+  Custom workflows, dashboards, and process automation to eliminate manual work.
 
-**Purpose**
+- **AI-Driven Solutions**  
+  Intelligent systems integrated into real business operations — not demos.
 
-* Integrate digital systems with real-world spaces
-* Enable data-driven physical environments (clinics, retail, real estate)
-
----
-
-## How We Build
-
-* Systems-first architecture (not isolated products)
-* Internal, proprietary implementations (not resold SaaS)
-* AWS-based infrastructure
-* Designed for scale, reliability, and long-term operation
-
-## Target Markets
-
-* Hospitality
-* Medical & Clinics
-* Real Estate
-
-Primary geographic focus: **Iberian Peninsula**
+- **Technical Strategy & Architecture**  
+  Designing systems that grow with your business.
 
 ---
 
-## Repository Structure
+## 🧠 Our Approach
 
-This organization contains repositories for:
+- **Problem-first engineering**  
+- **Clean, production-grade code**  
+- **Automation by default**  
+- **Long-term thinking over quick hacks**
 
-* **Web Platforms** — Frontend applications and SEO-focused sites
-* **AI Systems** — Voice agents, conversational AI, automation engines
-* **Infrastructure** — AWS, Docker, CI/CD, observability
-* **Hardware & IoT** — Sensors, device control, edge systems
-* **Internal Tools** — Dashboards, orchestration, analytics
-
-Each repository includes:
-
-* Clear README
-* Architecture documentation
-* Environment setup instructions
-* Deployment guidelines
+We design systems the same way we run our startup: lean, focused, and intentional.
 
 ---
 
-## Security
+## 📦 Repositories
 
-* Do **not** disclose vulnerabilities publicly
-* Report security issues privately to the MASRICO security team
-* Access to sensitive repositories is permission-based
+This organization hosts:
 
----
+- Core platforms and internal tools  
+- Client and partner projects (when applicable)  
+- Shared libraries, utilities, and infrastructure  
+- R&D experiments and proofs of concept  
 
-## Contributions
-
-Most repositories are **internal and client-critical**.
-
-Contribution rules:
-
-* Follow established architecture patterns
-* Use clear, meaningful commit messages
-* Never commit secrets or credentials
-* Respect system boundaries and data contracts
-
-External contributions are accepted **by invitation only**.
+Some repositories are private by design.
 
 ---
 
-## Summary
+## 🤝 Working With Us
 
-MASRICO Group builds engineered business systems across digital, AI, and physical domains.
+Interested in collaborating, contributing, or building something together?
 
-We focus on:
+- Contribution guidelines live inside individual repos  
+- Business inquiries are handled directly
 
-* Automation over manual operations
-* Architecture over tooling
-* Long-term systems over short-term solutions
+---
 
+## 📬 Contact
+
+- 🌐 Website: https://masrico.es  
+- 📧 Email: info@masrico.es  
+- 📍 Based in Spain — working globally
+
+---
+
+<p align="center">
+  <sub>© MASRICO — Building systems that scale.</sub>
+</p>
